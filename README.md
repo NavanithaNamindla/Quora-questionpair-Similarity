@@ -11,9 +11,9 @@ In Order to predict the questions are similar or not we used Following Machine L
 ## Results
                                
 **Models**                         **Accuracy Score**
-Decision Tree-------------------->79.5784% ,
-Random Forest-------------------->79.5784% ,
-Logistic Regression-------------->72.323% ,
-XGBoost-------------------------->79.588% .
+Decision Tree-------------------->80.35% ,
+Random Forest-------------------->80.35% ,
+Logistic Regression-------------->71.00% ,
+XGBoost-------------------------->79.7% .
 
-From the Results from above machinelearning methods we can conclude that the XGBoost Classifier gives the best results according to Accuracy comparing with the other methods.
+From the Results from above machinelearning methods we can conclude that the Decision Tree and RandomForest Classifier gives the best results according to Accuracy comparing with the other methods.
